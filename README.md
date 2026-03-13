@@ -1,0 +1,1 @@
+Built interpretable and machine learning models (Logistic Regression, Random Forest, and Gradient Boosting) to predict 30-day hospital readmission risk using EHR data, followed by SHAP-based explainability and patient risk stratification
